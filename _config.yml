@@ -20,4 +20,12 @@ plugins:
 # includes:
 #   - assets/js/custom.js
 
+
 remote_theme: reevafaisal/jekyll-theme-minimal-new
+
+navigation:
+  - name: Prerequisites
+    link: ./index.html#prerequisites
+  - name: Usage Instructions
+    link: ./index.html#usage-instructions
+    
