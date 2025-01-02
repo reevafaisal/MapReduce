@@ -6,7 +6,8 @@ This guide provides instructions on how to set up and use AWS instances to run a
 
 ---
 
-### Note: The following section is already completed and I have a cluster of EC2 instances running
+### Note: 
+The following section is already completed and I have a cluster of EC2 instances running
 
 ## Prerequisites 
 
