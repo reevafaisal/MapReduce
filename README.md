@@ -63,6 +63,10 @@ MANAGER_PUBLIC_IP_ADDRESS: ec2-18-219-203-248.us-east-2.compute.amazonaws.com
 
 ---
 
+Technologies: Python, Madoop (Custom version of Hadoop)
+
+---
+
 ## Note: 
 If you would like to run your own instances to view the output from each job, the code for this project is available upon request.
 
