@@ -5,6 +5,8 @@
 - Includes program execution, distributed systems, fault tolerance, OS-provided concurrency facilities (threads and processes), and networking (sockets).
 - Consists of a Manager which listens for user-submitted MapReduce jobs and distributes the work among Workers, and multiple Worker instances that receive instructions from the Manager and execute map and reduce tasks that combine to form a MapReduce program.
 
+![MapReduce Image](flowchart.excalidraw.png)
+
 ## MapReduce Framework Guide
 
 This guide provides instructions on how to set up and use AWS instances to run a MapReduce framework and submit jobs.
