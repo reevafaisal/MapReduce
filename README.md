@@ -37,7 +37,7 @@ The following section is already completed and I have a cluster of EC2 instances
 
 ## Usage Instructions
 
-### 1. Upload Input Files to the Instance (sampled uploaded)
+### 1. Upload Input Files to the Instance (samples uploaded)
 
 Use the `scp` command to securely copy input files to the appropriate directory on the instance.
 
