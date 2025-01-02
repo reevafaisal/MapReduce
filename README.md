@@ -1,3 +1,5 @@
+![MapReduce Image](flowchart.excalidraw.png)
+
 # MapReduce Framework Guide
 
 This guide provides instructions on how to set up and use AWS instances to run a MapReduce framework and submit jobs.
