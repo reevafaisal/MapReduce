@@ -14,7 +14,7 @@ plugins:
 #   - jekyll-sitemap  
 #   - jekyll-seo-tag
 #   - jemoji
-# color-scheme: light
+color-scheme: light
 
 # { scroll: false, shallow: true }
 # includes:
